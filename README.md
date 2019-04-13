@@ -18,7 +18,7 @@ The following principles are followed in designing this game.
 
 * created the directory for the project
 * run 'bundle init' from the terminal
-* in the Gemfile add 'bundle gem tic_tac_toe' (if you agree to all the permissions follow the displayed instructions)
+
 
 
 ## Classes
