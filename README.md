@@ -13,3 +13,16 @@ The following principles are followed in designing this game.
 * the game is built from a TDD perspective.
 
 * the Bundler gem was used to create a gem called tic_tac_toe so that it can be included in other projects.
+
+## Setup
+
+* created the directory for the project
+* run 'bundle init' from the terminal
+* in the Gemfile add 'bundle gem tic_tac_toe' (if you agree to all the permissions follow the displayed instructions)
+
+
+## Classes
+
+* Since the board is has 3 rows and 3 columns, the board consists of 9 individual cells, each with unique coordinates to identifiy its location.
+
+* Each cell can be either blank, or occupied with 'x' or 'o'.
